@@ -1,0 +1,8 @@
+{
+  "name": "dartful/arrayhelper",
+  "autoload": {
+    "psr-4": {
+      "Dartful\\ArrayHelper\\": "./"
+    }
+  }
+}
