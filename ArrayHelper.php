@@ -10,7 +10,7 @@ class ArrayHelper
         $indexed = [];
 
         foreach ($array as $item) {
-            $indexed[$item[$key]] = $indexed;
+            $indexed[$item[$key]] = $item;
         }
 
         return $indexed;
