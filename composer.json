@@ -1,5 +1,8 @@
 {
   "name": "dartful/arrayhelper",
+  "require": {
+    "monolog/monolog" : "^1"
+  },
   "autoload": {
     "psr-4": {
       "Dartful\\ArrayHelper\\": "./"
