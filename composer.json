@@ -1,7 +1,8 @@
 {
   "name": "dartful/arrayhelper",
   "require": {
-    "php": ">7.0"
+    "php": ">7.0",
+    "chillerlan/php-qrcode": "^1"
   },
   "autoload": {
     "psr-4": {
