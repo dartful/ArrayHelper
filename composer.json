@@ -1,5 +1,8 @@
 {
   "name": "dartful/arrayhelper",
+  "authors": [
+    "Dmitry"
+  ],
   "require": {
     "monolog/monolog" : "^1"
   },
