@@ -1,11 +1,7 @@
 {
   "name": "dartful/arrayhelper",
-  "authors": [
-    "Dmitry"
-  ],
   "require": {
-    "monolog/monolog" : "^1",
-    "chillerlan/php-qrcode": "^1"
+    "monolog/monolog" : "^1"
   },
   "autoload": {
     "psr-4": {
